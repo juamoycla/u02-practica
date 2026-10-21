@@ -1,0 +1,23 @@
+{
+  "name": "u02-practica",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD datos",
+  "homepage": "https://github.com/juamoycla/u02-practica#readme",
+  "bugs": {
+    "url": "https://github.com/juamoycla/u02-practica/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juamoycla/u02-practica.git"
+  },
+  "license": "ISC",
+  "author": "Juan Moya Clavell",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
